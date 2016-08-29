@@ -2,10 +2,10 @@
 
 <openerp>
     <data>
-        <template id="show_sequence_columns_easy_ma_mi_la_templates" name="dynamic_listview_2208 templates" inherit_id="web.assets_backend">
+        <template id="show_sequence_columns_easy_ma_mi_la_templates" name="dynamic_listview_2908 templates" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
-                <link rel="stylesheet" type="text/css" href="/dynamic_listview_2208/static/src/css/style.css" />
-                <script type="text/javascript" src="/dynamic_listview_2208/static/src/js/view_list_inherit.js"></script>
+                <link rel="stylesheet" type="text/css" href="/dynamic_listview_2908/static/src/css/style.css" />
+                <script type="text/javascript" src="/dynamic_listview_2908/static/src/js/view_list_inherit.js"></script>
             </xpath>
         </template>
     </data>
